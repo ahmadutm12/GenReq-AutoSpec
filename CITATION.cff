@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper and the original datasets."
+title: "GenReq-AutoSpec: Replication package"
+type: dataset
+authors:
+  - name: "The GenReq-AutoSpec authors"   # TODO: replace with author list (family-names / given-names / orcid)
+version: "1.0.0"
+date-released: "2026-11-14"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX            # TODO: add after Zenodo release
+preferred-citation:
+  type: article
+  title: "GenReq-AutoSpec: Human-in-the-Loop LLM Classification and Grounded Refinement of Software Requirements — An Empirical Evaluation on PROMISE NFR"
+  authors:
+    - name: "The GenReq-AutoSpec authors"  # TODO
+  journal: "e-Informatica Software Engineering Journal"
+  year: 2026
+  status: submitted
